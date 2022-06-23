@@ -17,7 +17,7 @@
     "jwt-simple": "*",
     "mongoose": "*",
     "morgan": "*",
-    "nodemon": "*",
+    "nodemon": "2.0.17",
     "passport": "*",
     "passport-jwt": "*",
     "passport-local": "*"
