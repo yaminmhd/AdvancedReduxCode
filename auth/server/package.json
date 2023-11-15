@@ -15,7 +15,7 @@
     "cors": "^2.8.4",
     "express": "*",
     "jwt-simple": "*",
-    "mongoose": "*",
+    "mongoose": "5.3.9",
     "morgan": "*",
     "nodemon": "*",
     "passport": "*",
