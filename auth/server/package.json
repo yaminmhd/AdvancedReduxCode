@@ -13,7 +13,7 @@
     "bcrypt-nodejs": "*",
     "body-parser": "*",
     "cors": "^2.8.4",
-    "express": "*",
+    "express": "4.19.2",
     "jwt-simple": "*",
     "mongoose": "*",
     "morgan": "*",
